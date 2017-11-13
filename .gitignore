@@ -1,0 +1,6 @@
+
+.ipynb_checkpoints
+.db
+.db-shm
+.db-wal
+.db.gz
